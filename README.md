@@ -5,7 +5,7 @@ Fonte: Censo demográfico 2022, IBGE
 
 Links para acessar as ferramentas:
 
-- Setores censitários (https://outputgeo.github.io/censo2022/mapa_python_wfs_json_ibge.html
+- Setores censitários (https://outputgeo.github.io/censo2022/mapa_python_wfs_json_ibge.html)
 
 - Territórios Indígenas e Quilombolas (https://outputgeo.github.io/censo2022/territorios_indigenas_quilombolas_br.html)
 
